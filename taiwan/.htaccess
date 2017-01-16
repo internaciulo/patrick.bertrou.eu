@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Access to /taiwan"
-AuthUserFile /kunden/homepages/12/d283977913/htpasswd
-Require user chinechine
